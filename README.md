@@ -6,7 +6,7 @@ A [RyeLite](https://github.com/ash-of-the-meadow/RyeliteDesktop) plugin that let
 
 Pick how you want to drop in the plugin settings, then that gesture drops the item directly. For stackable items it drops the **whole stack** — never the "Drop X" quantity prompt.
 
-The **Drop with** setting has four options:
+The **Drop with** setting has three options:
 
 | Option | Gesture |
 |---|---|
