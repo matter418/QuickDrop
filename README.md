@@ -1,6 +1,6 @@
 # Quick Drop
 
-A Highspell+ plugin that lets you drop an inventory item with a single click, skipping the right-click context menu.
+A [Highspell+](https://github.com/matter418/HighSpellPlus) plugin that lets you drop an inventory item with a single click, skipping the right-click context menu.
 
 ## What it does
 
