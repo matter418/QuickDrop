@@ -1,6 +1,6 @@
 # Quick Drop
 
-A [RyeLite](https://github.com/ash-of-the-meadow/RyeliteDesktop) plugin that lets you drop an inventory item with a single click, skipping the right-click context menu.
+A Highspell+ plugin that lets you drop an inventory item with a single click, skipping the right-click context menu.
 
 ## What it does
 
@@ -18,7 +18,7 @@ The plugin only acts when the click lands on a normal inventory slot and the ban
 
 ## Installation
 
-The intended way to install is through RyeLite's built-in plugin hub once the plugin is published there. Open RyeLite, go to the plugins menu, find **Quick Drop**, and enable it.
+The intended way to install is through the Highspell+ plugin hub. Open Highspell+, go to the plugins menu, find **Quick Drop**, and enable it.
 
 ## Building from source
 
@@ -29,7 +29,7 @@ yarn install
 yarn build
 ```
 
-The bundled output ends up at `dist/QuickDrop.js`. To test it locally against a development copy of RyeLite, copy that file into `RyeliteDesktop/src/renderer/client/plugins/` and launch the client.
+The bundled output ends up at `dist/QuickDrop.js`. To test it locally against a development copy of Highspell+, copy that file into the client's `src/renderer/client/plugins/` and launch the client.
 
 ## How it works (briefly)
 
